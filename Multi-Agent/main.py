@@ -11,9 +11,6 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 load_dotenv()
 
-
-
-
 # Page configuration
 st.set_page_config(
     page_title="AI Travel Planner",
